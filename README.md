@@ -5,7 +5,7 @@ Join our Discord with the link below!
 
 ---
 ## Discord
-[**Click here to join our Discord server!**]([https://your-discord-invite-link)](https://discord.gg/CxbFp5WCfp)
+[**Click here to join our Discord server!**](https://discord.gg/CxbFp5WCfp)
 
 ---
 ## Languages Learned!
