@@ -1,8 +1,5 @@
 # Hello and Welcome! 👋
 
-Hi! This is where you'll find all of our code that we release to the public!  
-Join our Discord with the link below!
-
 ---
 ## Discord
 [![Discord](https://raw.githubusercontent.com/CrazyHackGUT/Discord/master/.github/Discord_Logo.png)](https://discord.gg/CxbFp5WCfp)
@@ -17,3 +14,7 @@ Join our Discord with the link below!
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)]()
 
 ---
+
+## Website
+
+[![Discord](https://i.ibb.co/JjQJG6Y1/T.png)](https://taxus.site/)
