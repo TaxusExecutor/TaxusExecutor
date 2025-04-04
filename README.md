@@ -17,4 +17,5 @@
 
 ## Website
 
-[![Discord](https://i.ibb.co/JjQJG6Y1/T.png)](https://taxus.site/)
+[![Website](https://i.ibb.co/JjQJG6Y1/T.png)](https://taxus.site/)
+
